@@ -25,16 +25,16 @@ watchCol = db['watchData']
 dailyCol = db['dailyData']
 
 st.success('MongoDB connected')
-kInfo = KSE100Info('0_kseall.csv')
+kInfo = KSE100Info('data/0_kseall.csv')
 today = date.today()
 todayDate = today.strftime("%Y-%m-%d")
 stocks = db.dailyData.distinct("symbol")
 
-st.text("Deleting today's entry (if any)")
+st.success("Deleting today's entry (if any)")
 dailyCol.delete_many({'Date': todayDate})
 
 st.info('Data scrapper getting data! (please wait)')
-ds = DataScrapper(infoFile='0_kseall.csv',mutualFunds=True)
+ds = DataScrapper(infoFile='data/0_kseall.csv',mutualFunds=True)
 st.success('Data scrapper ready!')
 #-------------------Variables------------------------------
 

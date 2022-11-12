@@ -232,7 +232,7 @@ class MongoObject:
         return results.iloc[0]
 
 class KSE100Info:
-    def __init__(self,path='0_kseall.csv'):
+    def __init__(self,path='data/0_kseall.csv'):
         self.kse100Stocks = pd.read_csv(path)
     
     def getActualSymbol(self,symbol):
@@ -284,7 +284,7 @@ class KSE100Info:
 
 class DataScrapper:
     def __init__(self,
-                    infoFile='0_kseall.csv',
+                    infoFile='data/0_kseall.csv',
                     mutualFunds=False,
                     justMutualFunds=False):
         #===============================================UGLY CODE======================================================

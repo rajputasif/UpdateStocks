@@ -1,0 +1,431 @@
+No,type,actualSym,NAME,symbol,RSISup,CAP,Category,Scrape,NonPenny,KMI100,KMIALL,WA_Perc,WA_short,WA_mid,WA_long,M_Perc,M_short,M_mid,M_SigLen,M_long
+1,Index,Karachi Meezan 30,KMI30,Karachi Meezan 30,30,100000,,TRUE,,,,0,5,11,50,0,4,15,9,21
+2,Index,Karachi 100,KSE100,Karachi 100,30,100000,,TRUE,,,,0,5,11,50,0,4,15,9,21
+3,Index,KMI All Shares,KMIALLSHR,KMI All Shares,30,100000,,TRUE,,,,0,5,11,50,0,4,15,9,21
+4,Index,OGTi,OGTi,OGTi,30,100000,,TRUE,,,,0,5,11,50,0,4,15,9,21
+5,Index,BKTi,BKTi,BKTi,30,100000,,TRUE,,,,0,5,11,50,0,4,15,9,21
+6,MF,KMIF,KSE Meezan Index Fund,KMIF,30,100000,,,,,,,,,,,,,,
+7,MF,MAAF,Meezan Asset Allocation Fund,MAAF,30,100000,,,,,,,,,,,,,,
+8,MF,MIF,Meezan Islamic Fund,MIF,30,100000,,,,,,0,5,11,50,0,4,15,9,21
+9,MF,MGF,Meezan Gold Fund,MGF,30,100000,,,,,,0,5,11,50,0,4,15,9,21
+10,MF,MEF,Meezan Energy Fund,MEF,30,100000,,,,,,0,5,11,50,0,4,15,9,21
+27,PSX,MARI,Mari Petroleum Company Ltd.,MGAS,,38589,Bad,TRUE,TRUE,TRUE,TRUE,0,9,17,70,0,4,15,9,21
+20,PSX,OGDC,Oil & Gas Development Company Ltd.,OGDC,,72481,OK,TRUE,TRUE,TRUE,TRUE,0,9,17,70,0,4,15,9,21
+23,PSX,POL,Pakistan Oilfields Limited.,PKOL,,56309,OK,TRUE,TRUE,TRUE,TRUE,0,9,17,70,0,4,15,9,21
+21,PSX,PPL,Pakistan Petroleum Limited.,PPL,,65761,OK,TRUE,TRUE,TRUE,TRUE,0,9,17,70,0,4,15,9,21
+29,PSX,MEBL,Meezan Bank Limited.,AMZN,,29992,OK,TRUE,TRUE,TRUE,TRUE,0,9,17,70,0,4,15,9,21
+19,PSX,MCB,MCB Bank Limited.,MCB,,74178,OK-Bank,TRUE,TRUE,TRUE,,0,9,17,70,0,4,15,9,21
+22,PSX,UBL,United Bank Ltd.,UBL,,63133,OK-Bank,TRUE,TRUE,TRUE,,0,9,17,70,0,4,15,9,21
+52,PSX,ABL,Allied Bank Ltd.,ABL,,14589,OK-Bank,TRUE,TRUE,TRUE,,0,9,17,70,0,4,15,9,21
+11,PSX,HBL,Habib Bank Limited.,HBL,20,98440,OK-Bank,TRUE,TRUE,TRUE,,0,8,15,70,0,4,15,9,21
+38,PSX,NBP,National Bank Of Pakistan.(XD),NBPK,,20797,OK-Bank,TRUE,TRUE,TRUE,,0,9,17,70,0,4,15,9,21
+13,PSX,ENGRO,Engro Corporation Limited.,EGCH,30,97136,OK,TRUE,TRUE,TRUE,TRUE,0,8,15,70,0,4,15,9,21
+18,PSX,FFC,Fauji Fertilizer Co. Ltd.,FAUF,,78132,OK,TRUE,TRUE,TRUE,,0,9,17,70,0,4,15,9,21
+28,PSX,EFERT,Engro Fertilizers Limited.,ENGR,,36564,OK,TRUE,TRUE,TRUE,TRUE,0,9,17,70,0,4,15,9,21
+15,PSX,LUCK,Lucky Cement Limited.,LUKC,,85550,OK,TRUE,TRUE,TRUE,TRUE,0,9,17,70,0,4,15,9,21
+81,PSX,FATIMA,Fatima Fertilizer Co Ltd.,FATF,,9201,Bad,TRUE,TRUE,TRUE,TRUE,0,9,17,70,0,4,15,9,21
+47,PSX,FCCL,Fauji Cement Co Ltd.,FAUC,,16347,OK,TRUE,TRUE,TRUE,TRUE,0,9,17,70,0,4,15,9,21
+12,PSX,BWCL,Bestway Cement Limited.,BEST,25,97398,Bad,TRUE,TRUE,,TRUE,0,8,15,70,0,4,15,9,21
+36,PSX,SYS,Systems Limited.,SYSE,40,22339,Growth,TRUE,TRUE,TRUE,TRUE,0,9,17,70,0,4,15,9,21
+30,PSX,TRG,TRG Pakistan Ltd.,TRGP,30,26633,Growth,TRUE,TRUE,TRUE,,0,9,17,70,0,4,15,9,21
+363,PSX,AVN,Avanceon Limited.,AVAN,35,,Growth,TRUE,TRUE,,,0,9,17,70,0,4,15,9,21
+14,PSX,UPFL,Unilever Pakistan Foods Ltd.,UPFL,,89052,Bad,TRUE,TRUE,,TRUE,0,9,17,70,0,4,15,9,21
+16,PSX,HUBC,Hub Power Company Limited.,HPWR,,82275,OK,TRUE,TRUE,TRUE,,0,9,17,70,0,4,15,9,21
+17,PSX,RMPL,Rafhan Maize Products Ltd.,RAMZ,,80264,Bad,TRUE,TRUE,,TRUE,0,9,17,70,0,4,15,9,21
+24,PSX,BAHL,Bank Al-Habib Ltd.,BKEQ,,47557,OK-Bank,TRUE,TRUE,TRUE,,0,9,17,70,0,4,15,9,21
+25,PSX,PSO,Pakistan State Oil Co Ltd.,PSO,30,43778,Growth,TRUE,TRUE,TRUE,TRUE,0,9,17,70,0,4,15,9,21
+26,PSX,DAWH,Dawood Hercules Corporation Ltd.,DAWH,,39117,Bad,TRUE,TRUE,TRUE,,0,9,17,70,0,4,15,9,21
+31,PSX,SEARL,The Searle Company Ltd.,SEAR,33,25708,Growth,TRUE,TRUE,TRUE,TRUE,0,9,17,70,0,4,15,9,21
+32,PSX,BAFL,Bank Alfalah Ltd.,BAFL,,25534,OK-Bank,TRUE,TRUE,TRUE,,0,9,17,70,0,4,15,9,21
+33,PSX,DGKC,D. G. Khan Cement Co. Ltd.,DGKH,30,24541,Growth,TRUE,TRUE,TRUE,TRUE,0,9,17,70,0,4,15,9,21
+34,PSX,GATI,Gatron (Industries) Ltd.,GTRO,,24115,Bad,TRUE,TRUE,,TRUE,0,9,17,70,0,4,15,9,21
+35,PSX,ACPL,Attock Cement Pak Ltd.,ATOC,,22987,Bad,TRUE,TRUE,,TRUE,0,9,17,70,0,4,15,9,21
+37,PSX,PAKT,Pakistan Tobacco Co Ltd.,PAKT,,21216,Bad,TRUE,TRUE,TRUE,,0,9,17,70,0,4,15,9,21
+39,PSX,MTL,Millat Tractors Limited.,MILM,,20449,Bad,TRUE,TRUE,TRUE,TRUE,0,9,17,70,0,4,15,9,21
+40,PSX,PSEL,Pakistan Services Limited.,PKSV,,20084,Bad,TRUE,TRUE,TRUE,TRUE,0,9,17,70,0,4,15,9,21
+41,PSX,COLG,Colgate Palmolive (Pak) Ltd.,COLG,,19580,Bad,TRUE,TRUE,TRUE,TRUE,0,9,17,70,0,4,15,9,21
+42,PSX,MLCF,Maple Leaf Cement Factory Ltd.,MPLF,35,19513,Growth,TRUE,TRUE,TRUE,TRUE,0,9,17,70,0,4,15,9,21
+43,PSX,INDU,Indus Motor Company Ltd.,INDM,,18330,Bad,TRUE,TRUE,TRUE,TRUE,0,9,17,70,0,4,15,9,21
+44,PSX,SNGP,Sui Northern Gas Pipe Line Ltd.,SUIN,30,18251,Growth,TRUE,TRUE,TRUE,TRUE,0,9,17,70,0,4,15,9,21
+45,PSX,NML,Nishat Mills Ltd.,NISM,30,16782,Growth,TRUE,TRUE,TRUE,TRUE,0,9,17,70,0,4,15,9,21
+46,PSX,HMB,Habib Metropolitan Bank Limited.,HMB,,16739,OK-Bank,TRUE,TRUE,TRUE,,0,9,17,70,0,4,15,9,21
+48,PSX,ABOT,Abbott Laboratories Pak Ltd.,ABBT,,16195,Bad,TRUE,TRUE,TRUE,TRUE,0,9,17,70,0,4,15,9,21
+49,PSX,NRL,National Refinary Ltd.,NATR,35,16184,Growth,TRUE,TRUE,,TRUE,0,9,17,70,0,4,15,9,21
+50,PSX,NESTLE,Nestle Pakistan Ltd.,MLKP,,15857,Bad,TRUE,TRUE,TRUE,,0,9,17,70,0,4,15,9,21
+51,PSX,SFL,Sapphire Fibres Mills Ltd.,SAFB,,14602,Bad,TRUE,TRUE,,TRUE,0,9,17,70,0,4,15,9,21
+53,PSX,CHCC,Cherat Cement Co. Ltd.,CHRC,35,13902,Growth,TRUE,TRUE,TRUE,TRUE,0,9,17,70,0,4,15,9,21
+54,PSX,THALL,Thal Limited.,THAL,,13899,Bad,TRUE,TRUE,TRUE,,0,9,17,70,0,4,15,9,21
+55,PSX,EPCL,Engro Polymer & Chemicals Ltd.,EPCL,38,13743,Growth,TRUE,TRUE,TRUE,TRUE,0,9,17,70,0,4,15,9,21
+56,PSX,KTML,Kohinoor Textile Mills Ltd.,KOHT,,13565,Bad,TRUE,TRUE,TRUE,TRUE,0,9,17,70,0,4,15,9,21
+57,PSX,SEPL,Security Papers Ltd.,SCPR,,13333,Bad,TRUE,TRUE,,TRUE,0,9,17,70,0,4,15,9,21
+58,PSX,HASCOL,Hascol Petroleum Ltd.,HASC,,13200,OK,TRUE,TRUE,TRUE,TRUE,0,9,17,70,0,4,15,9,21
+59,PSX,KAPCO,Kot Addu Power Company.,KAPCO,25,12806,Growth,TRUE,TRUE,TRUE,,0,9,17,70,0,4,15,9,21
+60,PSX,NATF,National Foods Ltd.,NATF,,12663,Bad,TRUE,TRUE,TRUE,TRUE,0,9,17,70,0,4,15,9,21
+61,PSX,PIBTL,Pakistan Intl. Bulk Terminal Ltd.,PICT,33,12485,Growth,TRUE,TRUE,TRUE,TRUE,0,9,17,70,0,4,15,9,21
+62,PSX,BATA,Bata Pakistan Ltd.,BATA,,12481,Bad,TRUE,TRUE,,TRUE,0,9,17,70,0,4,15,9,21
+63,PSX,BIPL,Bankislami Pakistan Ltd.,BIPL,,12329,OK,TRUE,TRUE,,TRUE,0,9,17,70,0,4,15,9,21
+64,PSX,KOHC,Kohat Cement Co. Ltd.,KOHC,,12146,Divi,TRUE,TRUE,TRUE,TRUE,0,9,17,70,0,4,15,9,21
+65,PSX,PNSC,Pakistan National Shipping Co.,PNSC,,12063,Bad,TRUE,TRUE,,TRUE,0,9,17,70,0,4,15,9,21
+66,PSX,PIOC,Pioneer Cement Ltd.,PION,30,12058,Growth,TRUE,TRUE,TRUE,,0,9,17,70,0,4,15,9,21
+67,PSX,GHNI,Ghandhara Industries Ltd.,GHIN,30,12046,Growth,TRUE,TRUE,,TRUE,0,9,17,70,0,4,15,9,21
+68,PSX,AICL,Adamjee Insurance Co. Ltd.,ADIN,,11987,Bad,TRUE,TRUE,TRUE,,0,9,17,70,0,4,15,9,21
+69,PSX,KEL,K-Electric Limited.,KELE,,11819,Bad,TRUE,TRUE,TRUE,TRUE,0,9,17,70,0,4,15,9,21
+70,PSX,FEROZ,Ferozsons Laboratories Ltd.,FERO,,11661,Bad,TRUE,TRUE,,TRUE,0,9,17,70,0,4,15,9,21
+71,PSX,PKGS,Packages Ltd.,PACK,,11650,Bad,TRUE,TRUE,TRUE,TRUE,0,9,17,70,0,4,15,9,21
+72,PSX,BOP,Bank Of Punjab.,BOPU,,10992,OK-Bank,TRUE,TRUE,TRUE,,0,9,17,70,0,4,15,9,21
+73,PSX,ISL,International Steels Limited.,INTE,,10837,OK,TRUE,TRUE,TRUE,TRUE,0,9,17,70,0,4,15,9,21
+74,PSX,GWLC,Gharibwal Cement Ltd.,GHAR,,10455,Bad,TRUE,TRUE,,TRUE,0,9,17,70,0,4,15,9,21
+75,PSX,ICI,ICI Pakistan Limited.,ICI,,10274,Bad,TRUE,TRUE,TRUE,TRUE,0,9,17,70,0,4,15,9,21
+76,PSX,POWER,Power cement Limited,POWE,,10017,OK,TRUE,TRUE,,TRUE,0,9,17,70,0,4,15,9,21
+77,PSX,AGP,AGP Limited.,AGPL,,9670,Bad,TRUE,TRUE,TRUE,TRUE,0,9,17,70,0,4,15,9,21
+78,PSX,INIL,International Industries Ltd.,INTI,30,9663,Growth,TRUE,TRUE,TRUE,,0,9,17,70,0,4,15,9,21
+79,PSX,PAEL,Pak Elektron Ltd.,PKEL,30,9508,Growth,TRUE,TRUE,TRUE,TRUE,0,9,17,70,0,4,15,9,21
+80,PSX,GLAXO,Glaxo SmithKline Pakistan Ltd.,GLAX,,9502,Bad,TRUE,TRUE,TRUE,TRUE,0,9,17,70,0,4,15,9,21
+82,PSX,SHFA,Shifa Int. Hospital Ltd.,SIHL,,8947,Bad,TRUE,TRUE,TRUE,TRUE,0,9,17,70,0,4,15,9,21
+83,PSX,HINOON,Highnoon Laboratories Ltd.,HINL,,8904,Bad,TRUE,TRUE,TRUE,TRUE,0,9,17,70,0,4,15,9,21
+84,PSX,APL,Attock Petroleum Limited.,APL,,8813,Bad,TRUE,TRUE,TRUE,TRUE,0,9,17,70,0,4,15,9,21
+85,PSX,HCAR,Honda Atlas Cars (Pak) Ltd.(XD),HATC,,8723,OK,TRUE,TRUE,TRUE,TRUE,0,9,17,70,0,4,15,9,21
+86,PSX,EFUG,E. F. U. Gen Insurance Ltd.,EFUI,,8454,Bad,TRUE,TRUE,TRUE,,0,9,17,70,0,4,15,9,21
+87,PSX,SAPL,Sanofi-Aventis Pakistan Ltd.,SAPL,,8295,Bad,TRUE,TRUE,,TRUE,0,9,17,70,0,4,15,9,21
+88,PSX,JVDC,Javedan Corporation Ltd.,JAVA,,8093,Bad,TRUE,TRUE,,TRUE,0,9,17,70,0,4,15,9,21
+89,PSX,ILP,Interloop Limited.,INTR,,8092,Bad,TRUE,TRUE,TRUE,TRUE,0,9,17,70,0,4,15,9,21
+90,PSX,IGIHL,IGI Holdings Limited.,IGI,,8026,Bad,TRUE,TRUE,TRUE,,0,9,17,70,0,4,15,9,21
+91,PSX,PSX,Pakistan Stock Exchange Limited.,PAKS,,7891,Bad,TRUE,TRUE,TRUE,,0,9,17,70,0,4,15,9,21
+92,PSX,JLICL,Jubliee Life Insurance Co Ltd.,JLIC,,7705,Stale,TRUE,TRUE,TRUE,,0,9,17,70,0,4,15,9,21
+93,PSX,MUREB,Murree Brewery Company Ltd.,MUBR,,7564,Stale,TRUE,TRUE,TRUE,,0,9,17,70,0,4,15,9,21
+94,PSX,FFBL,Fauji Fertilizer Bin Qasim Ltd.,JORD,35,7529,Growth,TRUE,TRUE,TRUE,,0,9,17,70,0,4,15,9,21
+95,PSX,ANL,Azgard Nine Limited.,AZNL,25,7441,Growth,TRUE,TRUE,TRUE,,0,9,17,70,0,4,15,9,21
+96,PSX,SITC,Sitara Chemicals.,SICH,,7416,Bad,TRUE,TRUE,,TRUE,0,9,17,70,0,4,15,9,21
+97,PSX,AKBL,Askari Bank Limited.,ASBK,,7301,OK-Bank,TRUE,TRUE,TRUE,,0,9,17,70,0,4,15,9,21
+98,PSX,ATRL,Attock Refinery Limited.,ATOR,30,7093,Growth,TRUE,TRUE,TRUE,TRUE,0,9,17,70,0,4,15,9,21
+99,PSX,SRVI,Service Industries.,SVCI,,6954,Divi,TRUE,TRUE,TRUE,,0,9,17,70,0,4,15,9,21
+100,PSX,PTC,Pakistan Telecommunication Co.,PTCA,25,6886,Growth,TRUE,TRUE,TRUE,TRUE,0,9,17,70,0,4,15,9,21
+101,PSX,FABL,Faysal Bank Limited.,FYBL,,6735,OK-Bank,TRUE,TRUE,TRUE,,0,9,17,70,0,4,15,9,21
+102,PSX,FCEPL,Frieslandcampina Engro Pakistan Ltd.,FRIE,28,6673,Growth,TRUE,TRUE,TRUE,TRUE,0,9,17,70,0,4,15,9,21
+103,PSX,MACTER,Macter International Limited.,MACT,,6655,Bad,TRUE,TRUE,,TRUE,0,9,17,70,0,4,15,9,21
+104,PSX,NETSOL,NetSol Technologies Ltd.,NTSL,30,6555,Growth,TRUE,TRUE,,TRUE,0,9,17,70,0,4,15,9,21
+105,PSX,CSAP,Crescent Steel & Allied Product.,CRFB,,6380,Bad,TRUE,TRUE,,TRUE,0,9,17,70,0,4,15,9,21
+106,PSX,SAZEW,Sazgar Engineering Works Ltd.,SAZG,32,6165,Growth,TRUE,TRUE,,TRUE,0,9,17,70,0,4,15,9,21
+107,PSX,BIFO,Bifo Industries Ltd.,BFIN,,6150,Divi,TRUE,TRUE,,TRUE,0,9,17,70,0,4,15,9,21
+108,PSX,DCR,Dolmen City REIT.,DOLM,,6115,Bad,TRUE,TRUE,TRUE,TRUE,0,9,17,70,0,4,15,9,21
+109,PSX,SCBPL,Standard Chartered Bank Pak Ltd.,SCBP,,6078,OK-Bank,TRUE,TRUE,TRUE,,0,9,17,70,0,4,15,9,21
+110,PSX,GHGL,Ghani Glass Ltd.,GHGL,,5849,Divi,TRUE,TRUE,TRUE,TRUE,0,9,17,70,0,4,15,9,21
+111,PSX,GHNL,Ghandhara Nissan Ltd.,GHLT,33,5848,Growth,TRUE,TRUE,,TRUE,0,9,17,70,0,4,15,9,21
+112,PSX,BYCO,Baluchistan Wheels Ltd.,BYCO,32,5783,,TRUE,TRUE,,,0,9,17,70,0,4,15,9,21
+113,PSX,WAVES,WAVES Singer Pakistan Ltd.,WAVE,30,5718,Growth,TRUE,TRUE,,TRUE,0,9,17,70,0,4,15,9,21
+114,PSX,FML,Feroze1888 Mills Ltd.,FERZ,,5669,Bad,TRUE,TRUE,TRUE,TRUE,0,9,17,70,0,4,15,9,21
+115,PSX,RPL,Roshan Packages Limited.,ROSH,27,5597,OK,TRUE,TRUE,,TRUE,0,9,17,70,0,4,15,9,21
+116,PSX,HABSM,Habib Sugar Mills Ltd.,HABS,,5595,Bad,TRUE,TRUE,,TRUE,0,9,17,70,0,4,15,9,21
+117,PSX,SSGC,Sui Southern Gas Co Ltd.,SUIS,33,5559,OK,TRUE,TRUE,TRUE,,0,9,17,70,0,4,15,9,21
+118,PSX,SHEL,Shell Pakistan Ltd.,SHEL,25,5553,OK,TRUE,TRUE,TRUE,TRUE,0,9,17,70,0,4,15,9,21
+119,PSX,ATBA,Atlas Battery Ltd.,ATLA,,5534,Stale,TRUE,TRUE,,TRUE,0,9,17,70,0,4,15,9,21
+120,PSX,AABS,Al-Abbas Sugar Mills Ltd.(XD),ALBS,,5504,Bad,TRUE,TRUE,,TRUE,0,9,17,70,0,4,15,9,21
+121,PSX,SML,Shakarganj Limited.,SHKS,,5475,Bad,TRUE,TRUE,,TRUE,0,9,17,70,0,4,15,9,21
+122,PSX,DCL,Dewan Cement Limited.,DECE,35,5408,OK,TRUE,TRUE,,TRUE,0,9,17,70,0,4,15,9,21
+123,PSX,PMPK,Philip Morris (Pakistan)Ltd.,PHIM,,5336,Bad,TRUE,TRUE,TRUE,,0,9,17,70,0,4,15,9,21
+124,PSX,ATLH,Atlas Honda Limited.(XD),ATHO,,5311,Bad,TRUE,TRUE,TRUE,TRUE,0,9,17,70,0,4,15,9,21
+125,PSX,HTL,Hi-Tech Lubricants Limited.,HITE,33,5281,Growth,TRUE,TRUE,,TRUE,0,9,17,70,0,4,15,9,21
+126,PSX,PCAL,Pakistan Cables Ltd.,PKCB,,5277,Bad,TRUE,TRUE,,TRUE,0,9,17,70,0,4,15,9,21
+127,PSX,ARPL,Archroma Pakistan Limited.,ARCH,,5118,Bad,TRUE,TRUE,TRUE,TRUE,0,9,17,70,0,4,15,9,21
+128,PSX,LOTCHEM,Lotte Chemical Pakistan Ltd.,LOTT,,5057,Stale,TRUE,TRUE,TRUE,TRUE,0,9,17,70,0,4,15,9,21
+129,PSX,PSMC,Pak Suzuki Motors Co Ltd.,PKSU,,5007,Bad,TRUE,TRUE,TRUE,,0,9,17,70,0,4,15,9,21
+130,PSX,GATM,Gul Ahmed Textile Mills Ltd.,GULA,32,5006,Growth,TRUE,TRUE,TRUE,,0,9,17,70,0,4,15,9,21
+131,PSX,GSKCH,Glaxo SmithKline Healthcare Pak Ltd.,GLAO,,4740,Bad,TRUE,TRUE,TRUE,TRUE,0,9,17,70,0,4,15,9,21
+132,PSX,ADMM,Artistic Denim Mills Limited.,ADML,,4703,Bad,TRUE,TRUE,,TRUE,0,9,17,70,0,4,15,9,21
+133,PSX,TREET,Treet Corporation Ltd.,TRET,30,4652,OK,TRUE,TRUE,,TRUE,0,9,17,70,0,4,15,9,21
+134,PSX,IBLHL,IBL HealthCare Limited.,IBLH,,4562,Bad,TRUE,TRUE,,TRUE,0,9,17,70,0,4,15,9,21
+135,PSX,AGIL,Agriautos Industries Co. Ltd.,AGRT,,4497,Bad,TRUE,TRUE,TRUE,,0,9,17,70,0,4,15,9,21
+136,PSX,UNITY,Unity Foods Limited.,UNIT,30,4429,Growth,TRUE,TRUE,TRUE,,0,9,17,70,0,4,15,9,21
+137,PSX,NCL,Nishat (Chunia) Ltd.,NCPL,,4385,Bad,TRUE,TRUE,TRUE,,0,9,17,70,0,4,15,9,21
+138,PSX,SPEL,Synthetic Products Ent. Ltd.,SYNT,,4143,Bad,TRUE,TRUE,,TRUE,0,9,17,70,0,4,15,9,21
+139,PSX,ASC,Al-Shaheer Corporation.,ALSH,35,3987,Growth,TRUE,TRUE,,TRUE,0,9,17,70,0,4,15,9,21
+140,PSX,PREMA,At-Tahur Ltd.,ATTA,30,3735,Bad,TRUE,TRUE,,TRUE,0,9,17,70,0,4,15,9,21
+141,PSX,CLOV,Clover Pakistan Limited.,CLVF,25,3502,Bad,TRUE,TRUE,,TRUE,0,9,17,70,0,4,15,9,21
+142,PSX,SPWL,Saif Power Ltd.,SAIP,36,3326,Growth,TRUE,TRUE,TRUE,,0,9,17,70,0,4,15,9,21
+143,PSX,OLPL,OLP Financial Services Pakistan Ltd.,ORIL,,2333,Bad,TRUE,TRUE,TRUE,,0,9,17,70,0,4,15,9,21
+144,PSX,JDWS,J. D. W. Sugar Mills Ltd.,JDWS,,2045,Bad,TRUE,TRUE,TRUE,,0,9,17,70,0,4,15,9,21
+145,PSX,FHAM,First Habib Mod.,HABM,,1919,Bad,TRUE,TRUE,TRUE,,0,9,17,70,0,4,15,9,21
+146,PSX,IDYM,Indus Dyeing & Manufacturing.,INDY,,1444,Bad,TRUE,TRUE,TRUE,,0,9,17,70,0,4,15,9,21
+147,PSX,IBFL,Ibrahim Fibre Limited.,IBFL,,983,Bad,TRUE,TRUE,TRUE,TRUE,0,9,17,70,0,4,15,9,21
+148,PSX,BNWM,Bannu Woollen Mills Limited.,BANU,,181,Bad,TRUE,TRUE,TRUE,,0,9,17,70,0,4,15,9,21
+149,PSX,YOUW,Yousuf Weaving Mills Limited.,YOUS,36,139,Growth,TRUE,TRUE,TRUE,,0,9,17,70,0,4,15,9,21
+150,PSX,FECM,First Elite Capital Mod.,ELCM,,,,TRUE,TRUE,,,0,9,17,70,0,4,15,9,21
+151,PSX,CYAN,Cyan Limited.,CYAN,,,,TRUE,TRUE,,,0,9,17,70,0,4,15,9,21
+152,PSX,ANTM,AN Textile Mills Ltd.,ANTM,,,,TRUE,TRUE,,,0,9,17,70,0,4,15,9,21
+153,PSX,STML,Shams Textile Mills Ltd.,SHMT,,,,,,,,0,9,17,70,0,4,15,9,21
+154,PSX,SEL,Sitara Enengy Ltd.,STRA,,,,,,,,0,9,17,70,0,4,15,9,21
+155,PSX,SUTM,Sunrays Textile Mills Ltd.,SUNT,,,,,,,,0,9,17,70,0,4,15,9,21
+156,PSX,BILF,Bilal Fibres Ltd.,BIFB,,,,,,,,0,9,17,70,0,4,15,9,21
+157,PSX,GRYL,Grays Leasing Ltd.,GRAL,,,,,,,,0,9,17,70,0,4,15,9,21
+158,PSX,GOC,GOC (PAK) Limited.,GOCL,,,,,,,,0,9,17,70,0,4,15,9,21
+159,PSX,JSGCL,JS Global Capital Limited.,JSGC,,,,,,,,0,9,17,70,0,4,15,9,21
+160,PSX,MEHT,Mehmood Textile Mills Ltd.,MAHM,,,,,,,,0,9,17,70,0,4,15,9,21
+161,PSX,AKGL,Al-Khair Gadoon Ltd.,AKGL,,,,,,,,0,9,17,70,0,4,15,9,21
+162,PSX,ASTM,Asim Textile Mills Ltd.,ASMT,,,,,,,,0,9,17,70,0,4,15,9,21
+163,PSX,GLPL,Gillette Pakistan Limited,GILT,,,Bad,,,,,0,9,17,70,0,4,15,9,21
+164,PSX,JGICL,Jubilee General Insurance Co.Ltd.,JGIC,,,,,,,,0,9,17,70,0,4,15,9,21
+165,PSX,BIPLS,BIPL Securities Ltd.,BIPS,,,,,,,,0,9,17,70,0,4,15,9,21
+166,PSX,LEUL,Leather Up Ltd.,LETA,,,,,,,,0,9,17,70,0,4,15,9,21
+167,PSX,PAKD,Pak Datacom Limited.,PDCL,,,,,,,,0,9,17,70,0,4,15,9,21
+168,PSX,PIL,PICIC Insurance Ltd.,PIL,,,,,,,,0,9,17,70,0,4,15,9,21
+169,PSX,RICL,Reliance Insurance.,RELW,,,,,,,,0,9,17,70,0,4,15,9,21
+170,PSX,RUPL,Rupali Polyester Ltd.,RUPA,,,,,,,,0,9,17,70,0,4,15,9,21
+171,PSX,SURC,Suraj Cotton Mills Ltd.,SURC,,,,,,,,0,9,17,70,0,4,15,9,21
+172,PSX,UVIC,Universal Insurance Company Ltd.,UNVI,,,,,,,,0,9,17,70,0,4,15,9,21
+173,PSX,UDPL,United Distributors Pakistan.,UTDS,,,,,,,,0,9,17,70,0,4,15,9,21
+174,PSX,ARPAK,Arpak International Investment.,ARPK,,,,,,,,0,9,17,70,0,4,15,9,21
+175,PSX,BFMOD,B.F.Modaraba.,BFMD,,,,,,,,0,9,17,70,0,4,15,9,21
+176,PSX,DADX,Dadex Eternit Ltd.,DAET,,,,,,,,0,9,17,70,0,4,15,9,21
+177,PSX,DYNO,DYNEA Pak.,DYNE,,,,,,,,0,9,17,70,0,4,15,9,21
+178,PSX,ELCM,Elahi Cotton Mills Ltd.,ELCT,,,,,,,,0,9,17,70,0,4,15,9,21
+179,PSX,ESBL,Escorts Investment Bank Ltd.,EIBL,,,,,,,,0,9,17,70,0,4,15,9,21
+180,PSX,FZCM,Fazal Cloth Mills Ltd.,FZCL,,,,,,,,0,9,17,70,0,4,15,9,21
+181,PSX,AEL,AEL Textiles Limited,ARSH,,,,,,,,0,9,17,70,0,4,15,9,21
+182,PSX,JSML,Jauharabad Sugar Mills Ltd.,JAUH,,,,,,,,0,9,17,70,0,4,15,9,21
+183,PSX,LDMK,Kohinoor Textile Mills Ltd.,LDMK,,,,,,,,0,9,17,70,0,4,15,9,21
+184,PSX,SIBL,Security Investment Bank Ltd.,SECI,,,,,,,,0,9,17,70,0,4,15,9,21
+185,PSX,SIEM,Siemens (Pak) Eng. Co. Ltd.,SIEG,,,Bad,,,,,0,9,17,70,0,4,15,9,21
+186,PSX,FFLM,First Fidelity Leasing Mod.,FFLM,,,,,,,,0,9,17,70,0,4,15,9,21
+187,PSX,ALNRS,Al-Noor Sugar Mills Ltd.,ALNS,,,,,,,,0,9,17,70,0,4,15,9,21
+188,PSX,DEL,Dawood Equities Ltd.,DEL,,,,,,,,0,9,17,70,0,4,15,9,21
+189,PSX,DWSM,Dewan Sugar Mills Ltd.,DWSU,,,,,,,,0,9,17,70,0,4,15,9,21
+190,PSX,ECOP,ECOPAK Limited.,ECOP,,,,,,,,0,9,17,70,0,4,15,9,21
+191,PSX,ELSM,Ellcot Spinning Mills Ltd.,ELSP,,,,,,,,0,9,17,70,0,4,15,9,21
+192,PSX,FRCL,Frontier Ceramics Ltd.,FRCE,,,,,,,,0,9,17,70,0,4,15,9,21
+193,PSX,FIBLM,First IBL Modaraba.,IBLM,,,,,,,,0,9,17,70,0,4,15,9,21
+194,PSX,INKL,International Knitwear Ltd.,INTK,,,,,,,,0,9,17,70,0,4,15,9,21
+195,PSX,NAGC,Nagina Cotton Mills Ltd.,NAGI,,,,,,,,0,9,17,70,0,4,15,9,21
+196,PSX,NONS,Noon Sugar Mills Ltd.,NOON,,,,,,,,0,9,17,70,0,4,15,9,21
+197,PSX,PGLC,Pak Gulf Leasing Co Ltd.,GULF,,,,,,,,0,9,17,70,0,4,15,9,21
+198,PSX,QUET,Quetta Textile Mills Ltd.,QUTX,,,,,,,,0,9,17,70,0,4,15,9,21
+199,PSX,SAIF,Saif Textile Mills Ltd.,SAIF,,,,,,,,0,9,17,70,0,4,15,9,21
+200,PSX,SNAI,Sana Industries Ltd.,SANI,,,,,,,,0,9,17,70,0,4,15,9,21
+201,PSX,STJT,Shahtaj Textile Ltd.,SHJT,,,,,,,,0,9,17,70,0,4,15,9,21
+202,PSX,TATM,Tata Textile Mills Ltd.,TATX,,,,,,,,0,9,17,70,0,4,15,9,21
+203,PSX,THCCL,Thatta Cement Company Ltd.,THTA,,,,,,,,0,9,17,70,0,4,15,9,21
+204,PSX,TRSM,Trust Mod.,TRUM,,,,,,,,0,9,17,70,0,4,15,9,21
+205,PSX,WYETH,Worldcall Telecom Ltd.,WYTH,,,,,,,,0,9,17,70,0,4,15,9,21
+206,PSX,ZAHID,Zahidjee Textile Mills Ltd.,ZJEE,,,,,,,,0,9,17,70,0,4,15,9,21
+207,PSX,PAKMI,First Pak Mod.,PAKM,,,,,,,,0,9,17,70,0,4,15,9,21
+208,PSX,FEM,First Equity Mod.,EQMD,,,,,,,,0,9,17,70,0,4,15,9,21
+209,PSX,ADOS,Ados Pakistan Limited.,ADPK,,,,,,,,0,9,17,70,0,4,15,9,21
+210,PSX,FPJM,First Punjab Mod.,1PUJ,,,,,,,,0,9,17,70,0,4,15,9,21
+211,PSX,FCIBL,First Credit & Investment Bank Ltd.,FCIB,,,,,,,,0,9,17,70,0,4,15,9,21
+212,PSX,FUDLM,First UDL Mod.,1UDL,,,,,,,,0,9,17,70,0,4,15,9,21
+213,PSX,PMI,First Prudential Mod.,1PRM,,,,,,,,0,9,17,70,0,4,15,9,21
+214,PSX,ADAMS,Adam Sugar Mills Limited.,ADSU,,,,,,,,0,9,17,70,0,4,15,9,21
+215,PSX,FNEL,First National Equities Limited.,FNEL,,,,,,,,0,9,17,70,0,4,15,9,21
+216,PSX,AGTL,Al-Ghazi Tractors Limited.,ALGH,,,,,,,,0,9,17,70,0,4,15,9,21
+217,PSX,ALTN,Altern Energy Ltd.,ALTN,,,,,,,,0,9,17,70,0,4,15,9,21
+218,PSX,AMBL,Apna Microfinance Bank Limited.,AMBL,,,,,,,,0,9,17,70,0,4,15,9,21
+219,PSX,AHCL,Arif Habib Corporation Ltd.,ARIF,,,,,,,,0,9,17,70,0,4,15,9,21
+220,PSX,AHL,Arif Habib Limited.,AHL,,,,,,,,0,9,17,70,0,4,15,9,21
+221,PSX,AGIC,Askari Gen Insurance Co.,ASKI,,,,,,,,0,9,17,70,0,4,15,9,21
+222,PSX,ATIL,Atlas Insurance Limited.,ATIL,,,,,,,,0,9,17,70,0,4,15,9,21
+223,PSX,BRR,B.R.R. Guardian Modaraba.,BRR,,,,,,,,0,9,17,70,0,4,15,9,21
+224,PSX,BWHL,Baluchistan Wheels Ltd.,BAWH,,,,,,,,0,9,17,70,0,4,15,9,21
+225,PSX,BGL,Balochistan Glass Ltd.,BGLS,,,,,,,,0,9,17,70,0,4,15,9,21
+226,PSX,BOK,The Bank of Khyber.,BOK,,,,,,,,0,9,17,70,0,4,15,9,21
+227,PSX,BERG,Berger Paints Pakistan Ltd.,BERG,,,,,,,,0,9,17,70,0,4,15,9,21
+228,PSX,BTL,Blessed Textile Ltd.,BLET,,,,,,,,0,9,17,70,0,4,15,9,21
+229,PSX,BPL,Burshane LPG (Pakistan) Limited.,BLPL,,,,,,,,0,9,17,70,0,4,15,9,21
+230,PSX,BUXL,Buxly Paints Ltd.,BUXL,,,,,,,,0,9,17,70,0,4,15,9,21
+231,PSX,CENI,Century Insurance Co.Ltd.,CRIN,,,,,,,,0,9,17,70,0,4,15,9,21
+232,PSX,CEPB,Century Paper & Board Mills.,CENP,,,,,,,,0,9,17,70,0,4,15,9,21
+233,PSX,CWSM,Chakwal Spinning Mills Limited.,CHSL,,,,,,,,0,9,17,70,0,4,15,9,21
+234,PSX,CHAS,Chashma Sugar Mills Ltd.,CHSU,,,,,,,,0,9,17,70,0,4,15,9,21
+235,PSX,CPPL,Cherat Packaging Limited.,CHPR,,,,,,,,0,9,17,70,0,4,15,9,21
+236,PSX,CSIL,Cresent Star Insurance Ltd.,CSTR,,,,,,,,0,9,17,70,0,4,15,9,21
+237,PSX,CCM,Crescent Cotton Mills Limited.,CRES,,,,,,,,0,9,17,70,0,4,15,9,21
+238,PSX,CRTM,Crescent Textile Mills Ltd.,CRTX,,,,,,,,0,9,17,70,0,4,15,9,21
+239,PSX,DSIL,D. S. Industries Ltd.,DSIL,,,,,,,,0,9,17,70,0,4,15,9,21
+240,PSX,DAAG,Data Agro Limited,DAGL,,,,,,,,0,9,17,70,0,4,15,9,21
+241,PSX,DNCC,Dandot Cement Co. Ltd.,DANC,,,,,,,,0,9,17,70,0,4,15,9,21
+242,PSX,FDIBL,First Dawood Investment Bank Ltd.,FDIB,,,,,,,,0,9,17,70,0,4,15,9,21
+243,PSX,DLL,Dawood Lawrencepur Ltd.,DWLP,,,,,,,,0,9,17,70,0,4,15,9,21
+244,PSX,NRSL,Nimir Resins Limited.,NIMI,,,,,,,,0,9,17,70,0,4,15,9,21
+245,PSX,DOL,Descon Oxychem Ltd.,DOL,,,,,,,,0,9,17,70,0,4,15,9,21
+246,PSX,DFML,Dewan Farooque Motors Limited,DEFM,,,,,,,,0,9,17,70,0,4,15,9,21
+247,PSX,DSL,Dost Steels Ltd.,DOST,,,,,,,,0,9,17,70,0,4,15,9,21
+248,PSX,DWTM,Dewan Textile Mills Ltd.,DWTX,,,,,,,,0,9,17,70,0,4,15,9,21
+249,PSX,DFSM,Dewan Farooque Spinning Mills Ltd.,DFSM,,,,,,,,0,9,17,70,0,4,15,9,21
+250,PSX,EWIC,East West Ins. Co. Ltd.(XB),ASKA,,,,,,,,0,9,17,70,0,4,15,9,21
+251,PSX,EFUL,EFU Life Assurance Ltd.,EFUA,,,,,,,,0,9,17,70,0,4,15,9,21
+252,PSX,EMCO,EMCO Industries Ltd.,EMCO,,,,,,,,0,9,17,70,0,4,15,9,21
+253,PSX,FASM,Faisal Spinning Mills Ltd.,FASP,,,,,,,,0,9,17,70,0,4,15,9,21
+254,PSX,FRSM,Faran Sugar Mills Ltd.,FARS,,,,,,,,0,9,17,70,0,4,15,9,21
+255,PSX,EXIDE,Exide Pakistan Ltd.,EXID,,,,,,,,0,9,17,70,0,4,15,9,21
+256,PSX,FECTC,Fecto Cement Ltd.,FCEM,,,,,,,,0,9,17,70,0,4,15,9,21
+257,PSX,FCSC,First Capital Sec.Corp. Ltd.,1CSC,,,,,,,,0,9,17,70,0,4,15,9,21
+258,PSX,FLYING,First Imrooz Mod.,FYCC,,,,,,,,0,9,17,70,0,4,15,9,21
+259,PSX,GADT,Gadoon Textile Mills Ltd.,GATX,,,,,,,,0,9,17,70,0,4,15,9,21
+260,PSX,GTYR,Ghandhara Tyre & Rubber Company Ltd.,GNTY,,,,,,,,0,9,17,70,0,4,15,9,21
+261,PSX,GAMON,Gammon Pak.,GAMN,,,,,,,,0,9,17,70,0,4,15,9,21
+262,PSX,GFIL,Ghazi Fabrics International Ltd.,GHAZ,,,,,,,,0,9,17,70,0,4,15,9,21
+263,PSX,GVGL,Ghani Value Glass Limited.,GVGL,,,,,,,,0,9,17,70,0,4,15,9,21
+264,PSX,HICL,Habib Insurance Co Ltd.,HABI,,,,,,,,0,9,17,70,0,4,15,9,21
+265,PSX,HAEL,Hala Enterprises Limited,HALA,,,,,,,,0,9,17,70,0,4,15,9,21
+266,PSX,HINO,Hino Pak Motor Limited.,HINO,,,,,,,,0,9,17,70,0,4,15,9,21
+267,PSX,HIRAT,Hira Textile Mills Ltd.,HRTX,,,,,,,,0,9,17,70,0,4,15,9,21
+268,PSX,HSPI,Huffaz Seamless Pipe Industries.,HUFF,,,,,,,,0,9,17,70,0,4,15,9,21
+269,PSX,HUMNL,Hum Network Limited.,HUMN,,,,,,,,0,9,17,70,0,4,15,9,21
+270,PSX,IGIL,IGI Life Insurance Ltd.,IGIL,,,,,,,,0,9,17,70,0,4,15,9,21
+271,PSX,EFGH,EFG Hermes Pakistan Ltd.,EFGH,,,,,,,,0,9,17,70,0,4,15,9,21
+272,PSX,ICIBL,Invest Capital Investment Bank Ltd.,ICIBL,,,,,,,,0,9,17,70,0,4,15,9,21
+273,PSX,ICL,Ittehad Chemical Ltd.,ITHD,,,,,,,,0,9,17,70,0,4,15,9,21
+274,PSX,JATM,J. A. Textile Mills Ltd.,JATX,,,,,,,,0,9,17,70,0,4,15,9,21
+275,PSX,ISIL,Ismail Industries Ltd.,ISML,,,,,,,,0,9,17,70,0,4,15,9,21
+276,PSX,JKSM,J. K. Spinning Mills Ltd.,ZEET,,,,,,,,0,9,17,70,0,4,15,9,21
+277,PSX,JSCL,Jahangir Siddiqui & Company Ltd.,JSCO,,,,,,,,0,9,17,70,0,4,15,9,21
+278,PSX,JSCLPSA,Jahangir Siddiqui & Co. (Pref Sh.),JAND,,,,,,,,0,9,17,70,0,4,15,9,21
+279,PSX,JSBL,JS Bank Limited.,JSBL,,,,,,,,0,9,17,70,0,4,15,9,21
+280,PSX,JSIL,JS Investments Limited.,JSIL,,,,,,,,0,9,17,70,0,4,15,9,21
+281,PSX,KSBP,KSB Pumps Co Ltd.,KSBP,,,,,,,,0,9,17,70,0,4,15,9,21
+282,PSX,KHTC,Khyber Tobacco Co. Ltd.,KHYT,,,,,,,,0,9,17,70,0,4,15,9,21
+283,PSX,KOHTM,Kohat Textile Mills Ltd.,KOTX,,,,,,,,0,9,17,70,0,4,15,9,21
+284,PSX,KOHE,Kohinoor Energy Ltd.,KOHN,,,,,,,,0,9,17,70,0,4,15,9,21
+285,PSX,KOSM,Kohinoor Spinning Mills Ltd.,KOHP,,,,,,,,0,9,17,70,0,4,15,9,21
+286,PSX,KOIL,Kohinoor Industries Ltd.,KOHI,,,,,,,,0,9,17,70,0,4,15,9,21
+287,PSX,KML,Kohinoor Mills Ltd.,KML,,,,,,,,0,9,17,70,0,4,15,9,21
+288,PSX,KOHP,Kohinoor Power Co Ltd.,KHPW,,,,,,,,0,9,17,70,0,4,15,9,21
+289,PSX,MACFL,MACPAC Films Limited.,MACP,,,,,,,,0,9,17,70,0,4,15,9,21
+290,PSX,MQTM,Maqbool Textile Mills Ltd.,MQBT,,,,,,,,0,9,17,70,0,4,15,9,21
+291,PSX,MSOT,Masood Textile Mills Ltd.,MASO,,,,,,,,0,9,17,70,0,4,15,9,21
+292,PSX,MCBAH,MCB-Arif Habib Savings & Invest Ltd.,MARI,,,,,,,,0,9,17,70,0,4,15,9,21
+293,PSX,MDTL,Media Times Limited.,MDTL,,,,,,,,0,9,17,70,0,4,15,9,21
+294,PSX,MRNS,Mehran Sugar Mills Ltd.(XB),MEHS,,,,,,,,0,9,17,70,0,4,15,9,21
+295,PSX,MERIT,Merit Packaging Ltd.,MERI,,,,,,,,0,9,17,70,0,4,15,9,21
+296,PSX,MFFL,Mitchells Fruit Farms Ltd.,MITF,,,,,,,,0,9,17,70,0,4,15,9,21
+297,PSX,MIRKS,Mirpurkhas Sugar Mills Ltd.,MPKS,,,,,,,,0,9,17,70,0,4,15,9,21
+298,PSX,MODAM,Modarba Al-Mali.,ALMI,,,,,,,,0,9,17,70,0,4,15,9,21
+299,PSX,NICL,Nimir Industrial Chemical Ltd.,NIIN,,,,,,,,0,9,17,70,0,4,15,9,21
+300,PSX,NCPL,Nishat Chunian Power Ltd.,NCHU,,,,,,,,0,9,17,70,0,4,15,9,21
+301,PSX,FFL,Fauji Foods Limited.,FAUJ,,,,,,,,0,9,17,70,0,4,15,9,21
+302,PSX,OML,Olympia Mills Limited.,OYMP,,,,,,,,0,9,17,70,0,4,15,9,21
+303,PSX,OTSU,Otsuka Pakistan Ltd.,OTSU,,,,,,,,0,9,17,70,0,4,15,9,21
+304,PSX,PIAA,Pak International Airline Corp Ltd,PIAa,,,,,,,,0,9,17,70,0,4,15,9,21
+305,PSX,PKGI,Pakistan General Insurance Co.,PGIL,,,,,,,,0,9,17,70,0,4,15,9,21
+306,PSX,PACE,Pace (Pakistan) Ltd.,PACP,,,,,,,,0,9,17,70,0,4,15,9,21
+307,PSX,PPP,Pakistan Paper Products Ltd.,PKPP,,,,,,,,0,9,17,70,0,4,15,9,21
+308,PSX,PRL,Pakistan Refinery Ltd.,PKRF,,,,,,,,0,9,17,70,0,4,15,9,21
+309,PSX,PAKRI,Pakistan Reinsurance Comp.,PRIC,,,,,,,,0,9,17,70,0,4,15,9,21
+310,PSX,PSYL,Pakistan Synthetics Ltd.,PSYN,,,,,,,,0,9,17,70,0,4,15,9,21
+311,PSX,PPVC,Pakistan PVC,PPVC,,,,,,,,0,9,17,70,0,4,15,9,21
+312,PSX,PECO,Pakistan Engineering Co Ltd.,PKEG,,,,,,,,0,9,17,70,0,4,15,9,21
+313,PSX,PRET,Premium Textile Mills Ltd.,PRET,,,,,,,,0,9,17,70,0,4,15,9,21
+314,PSX,QUICE,Quice Food Industries Ltd.,QCFD,,,,,,,,0,9,17,70,0,4,15,9,21
+315,PSX,PRWM,Prosperity Weaving Mills Ltd.,PWML,,,,,,,,0,9,17,70,0,4,15,9,21
+316,PSX,REDCO,Redco Textile Ltd.,REDT,,,,,,,,0,9,17,70,0,4,15,9,21
+317,PSX,RCML,Reliance Cotton Spinning Mills.,RELI,,,,,,,,0,9,17,70,0,4,15,9,21
+318,PSX,RUBY,Ruby Textile Mills Ltd.,RUBY,,,,,,,,0,9,17,70,0,4,15,9,21
+319,PSX,SKRS,Sakrand Sugar Mills Ltd.,SAKS,,,,,,,,0,9,17,70,0,4,15,9,21
+320,PSX,SLYT,SME Leasing Ltd.,SALY,,,,,,,,0,9,17,70,0,4,15,9,21
+321,PSX,SSML,Saritow Spinning Mills Ltd.,SARW,,,,,,,,0,9,17,70,0,4,15,9,21
+322,PSX,SPLC,Sitara Peroxide Limited,SAUD,,,,,,,,0,9,17,70,0,4,15,9,21
+323,PSX,SARC,Sardar Chemical IndustriesLtd.,SCHI,,,,,,,,0,9,17,70,0,4,15,9,21
+324,PSX,STCL,Shabbir Tiles and Ceramics Limited.,SHAB,,,,,,,,0,9,17,70,0,4,15,9,21
+325,PSX,SHNI,Shaheen Insurance Co Ltd.,SHAH,,,,,,,,0,9,17,70,0,4,15,9,21
+326,PSX,SHSML,Shahmurad Sugar Mills Ltd.,SHMS,,,,,,,,0,9,17,70,0,4,15,9,21
+327,PSX,SHEZ,Shezan International Ltd.,SHEZ,,,,,,,,0,9,17,70,0,4,15,9,21
+328,PSX,SILK,Silk Bank Limited.,SILK,,,,,,,,0,9,17,70,0,4,15,9,21
+329,PSX,STPL,Siddiqsons Tin Plate Ltd.,STPL,,,,,,,,0,9,17,70,0,4,15,9,21
+330,PSX,SPL,Sitara Peroxide Limited,SIPE,,,,,,,,0,9,17,70,0,4,15,9,21
+331,PSX,SNBL,Soneri Bank Ltd.,SONA,,,,,,,,0,9,17,70,0,4,15,9,21
+332,PSX,SUHJ,Sohail Jute Mills Ltd.,SUHA,,,,,,,,0,9,17,70,0,4,15,9,21
+333,PSX,SMBL,Summit Bank Limited.,SMBL,,,,,,,,0,9,17,70,0,4,15,9,21
+334,PSX,ORIXM,Olympia Mills Limited.,ORIM,,,,,,,,0,9,17,70,0,4,15,9,21
+335,PSX,TELE,Telecard Ltd.,TCLD,30,,Growth,,TRUE,,,0,9,17,70,0,4,15,9,21
+336,PSX,TGL,Tariq Glass.,TAGS,36,,Growth,,TRUE,,,0,9,17,70,0,4,15,9,21
+337,PSX,TRIPF,Tri-Pack Films Ltd.,TPFL,,,,,,,,0,9,17,70,0,4,15,9,21
+338,PSX,TSPL,Tri -Star Power Ltd.,TRSP,,,,,,,,0,9,17,70,0,4,15,9,21
+339,PSX,UNIC,United Insurance Company.,UNTD,,,,,,,,0,9,17,70,0,4,15,9,21
+340,PSX,WAHN,Wah Noble Chemicals Ltd.,WAHN,,,,,,,,0,9,17,70,0,4,15,9,21
+341,PSX,WTL,Worldcall Telecom Ltd.,WCTL,35,,Growth,,TRUE,,,0,9,17,70,0,4,15,9,21
+342,PSX,ZTL,Zephyr Textile Limited.,ZTL,,,,,,,,0,9,17,70,0,4,15,9,21
+343,PSX,ASHT,Ashfaq Textile Mills Ltd.,ASFQ,,,,,,,,0,9,17,70,0,4,15,9,21
+344,PSX,BAFS,Baba Faried Sugar Mills Ltd.,BABA,,,,,,,,0,9,17,70,0,4,15,9,21
+345,PSX,KASBM,KASB Modaraba.,KASM,,,,,,,,0,9,17,70,0,4,15,9,21
+346,PSX,POML,Punjab Oil Mills Ltd.,PJBO,,,,,,,,0,9,17,70,0,4,15,9,21
+347,PSX,AGL,Agritech Limited,AGLI,,,,,,,,0,9,17,70,0,4,15,9,21
+348,PSX,TPL,TPL CORP Limited.,TPLC,,,,,,,,0,9,17,70,0,4,15,9,21
+349,PSX,FANM,First Al-Noor Mod.,1ALN,,,,,,,,0,9,17,70,0,4,15,9,21
+350,PSX,PKGP,Pakgen Power Limited.,PKPL,,,,,,,,0,9,17,70,0,4,15,9,21
+351,PSX,AGSML,Abdullah Shah Ghazi Sugar Mills Ltd.,ABDU,,,,,,,,0,9,17,70,0,4,15,9,21
+352,PSX,BCML,Bolan Casting Ltd.,BABR,,,,,,,,0,9,17,70,0,4,15,9,21
+353,PSX,DINT,Din Textile Mills Ltd.,DNTX,,,,,,,,0,9,17,70,0,4,15,9,21
+354,PSX,IDRT,Idrees Textile Mills Ltd.,IDTX,,,,,,,,0,9,17,70,0,4,15,9,21
+355,PSX,NSRM,The National Silk & Rayon Mills Ltd.,NASK,,,,,,,,0,9,17,70,0,4,15,9,21
+356,PSX,PINL,Premier Insurance Limited.,PREI,,,,,,,,0,9,17,70,0,4,15,9,21
+357,PSX,ZIL,ZIL Limited.,ZILL,,,,,,,,0,9,17,70,0,4,15,9,21
+358,PSX,PMRS,Premier Sugar Mills & Distille,PRES,,,,,,,,0,9,17,70,0,4,15,9,21
+359,PSX,SAPT,Sapphire Textile Mills Ltd.,SAPT,,,,,,,,0,9,17,70,0,4,15,9,21
+360,PSX,EPQL,Engro Powergen Qadirpur Ltd.,ENGP,,,,,,,,0,9,17,70,0,4,15,9,21
+361,PSX,ARM,Allied Rental Modaraba.,ARM,,,,,,,,0,9,17,70,0,4,15,9,21
+362,PSX,ARUJ,Aruj Industries Limited.,ARUJ,,,,,,,,0,9,17,70,0,4,15,9,21
+364,PSX,BCL,Bolan Casting Ltd.,BOLC,,,,,,,,0,9,17,70,0,4,15,9,21
+365,PSX,MUGHAL,Mughal Iron & Steels Ind Ltd.,MUGH,36,,Growth,,TRUE,,,0,9,17,70,0,4,15,9,21
+366,PSX,GGGL,Ghani Global Glass Limited.,GGGL,30,,Growth,,TRUE,,,0,9,17,70,0,4,15,9,21
+367,PSX,FPRM,First Paramount Mod.,FPMM,,,,,,,,0,9,17,70,0,4,15,9,21
+368,PSX,IDSM,Ideal Spinning Mills Ltd.,IDES,,,,,,,,0,9,17,70,0,4,15,9,21
+369,PSX,PHDL,Pakistan Hotels Developers Ltd.(XD),PHTD,,,,,,,,0,9,17,70,0,4,15,9,21
+370,PSX,SCL,Shield Corporation Ltd.,SCL,,,,,,,,0,9,17,70,0,4,15,9,21
+371,PSX,SHDT,Shadab Textile Mills Ltd.,SHAT,,,,,,,,0,9,17,70,0,4,15,9,21
+372,PSX,SZTM,Shahzad Textile Mills Ltd.,SHZT,,,,,,,,0,9,17,70,0,4,15,9,21
+373,PSX,SASML,Sindh Abadgars Sugar Mills Ltd.,SNAB,,,,,,,,0,9,17,70,0,4,15,9,21
+374,PSX,SSOM,S .S . Oil Mills Ltd.,SSOM,,,,,,,,0,9,17,70,0,4,15,9,21
+375,PSX,TOWL,Towellers  Ltd.,TOWL,,,,,,,,0,9,17,70,0,4,15,9,21
+376,PSX,TSBL,Trust Securities & Brokerage.,TRBK,,,,,,,,0,9,17,70,0,4,15,9,21
+377,PSX,LPL,LALPIR Power Limited.,LPLP,,,,,,,,0,9,17,70,0,4,15,9,21
+378,PSX,SMCPL,Safe Mix Concrete Ltd.,SAFE,,,,,,,,0,9,17,70,0,4,15,9,21
+379,PSX,ASTL,Amreli Steels Limited.,AMST,,,,,,,,0,9,17,70,0,4,15,9,21
+380,PSX,AWWAL,Awwal Modaraba.,AWWA,,,,,,,,0,9,17,70,0,4,15,9,21
+381,PSX,SINDM,Sindh Modaraba.,SMOD,,,,,,,,0,9,17,70,0,4,15,9,21
+382,PSX,TPLP,TPL Properties Limited.,TPLR,,,,,,,,0,9,17,70,0,4,15,9,21
+383,PSX,ASL,Aisha Steel Mills Limited.,AISH,,,,,,,,0,9,17,70,0,4,15,9,21
+384,PSX,ASLPS,Aisha Steel Mills Convertibl  Pre-Sh,AISH_pa,,,,,,,,0,9,17,70,0,4,15,9,21
+385,PSX,CTM,Colony Textile Mills Ltd.,CTML,,,,,,,,0,9,17,70,0,4,15,9,21
+386,PSX,LOADS,Loads Limited.,LOAD,,,,,,,,0,9,17,70,0,4,15,9,21
+387,PSX,NEXT,Next Capital Limited.,NEXT,,,,,,,,0,9,17,70,0,4,15,9,21
+388,PSX,PIM,Popular Islamic Madaraba,POPL,,,,,,,,0,9,17,70,0,4,15,9,21
+389,PSX,SBL,Samba Bank Limited.,SBL,,,,,,,,0,9,17,70,0,4,15,9,21
+390,PSX,SLL,SME Leasing Ltd.,SLL,,,,,,,,0,9,17,70,0,4,15,9,21
+391,PSX,TPLI,TPL Insurance Ltd.,TPLI,,,,,,,,0,9,17,70,0,4,15,9,21
+392,PSX,UCAPM,Unicap Modaraba.,UNIA,,,,,,,,0,9,17,70,0,4,15,9,21
+393,PSX,HSM,Husein Sugar Mills Limited.,HUSA,,,,,,,,0,9,17,70,0,4,15,9,21
+394,PSX,KPUS,Khairpur Sugar Mills Ltd.,KHPR,,,,,,,,0,9,17,70,0,4,15,9,21
+395,PSX,NCML,Nazir Cotton Mills Ltd.,NZCM,,,,,,,,0,9,17,70,0,4,15,9,21
+396,PSX,SANSM,Sanghar Sugar Mills Ltd.,SANS,,,,,,,,0,9,17,70,0,4,15,9,21
+397,PSX,SHCM,Shadman Cotton Mills Ltd.,SHAC,,,,,,,,0,9,17,70,0,4,15,9,21
+398,PSX,SHJS,Shahtaj Sugar Mills Ltd.,SHAS,,,,,,,,0,9,17,70,0,4,15,9,21
+399,PSX,SERF,Security Papers Ltd.,SVCF,,,,,,,,0,9,17,70,0,4,15,9,21
+400,PSX,TICL,Thal Industries Corporation Ltd.,THLI,,,,,,,,0,9,17,70,0,4,15,9,21
+401,PSX,ITTEFAQ,Ittefaq Iron Industries Limited.,ITTE,,,,,,,,0,9,17,70,0,4,15,9,21
+402,PSX,FIMM,First Imrooz Mod.,1IMD,,,,,,,,0,9,17,70,0,4,15,9,21
+403,PSX,UBDL,United Brands Limited.,UDLI,,,,,,,,0,9,17,70,0,4,15,9,21
+404,PSX,HMM,Habib Metro Modaraba.,HABB,,,,,,,,0,9,17,70,0,4,15,9,21
+405,PSX,BHAT,Bhanero Textile Mills Ltd.,BHAN,,,,,,,,0,9,17,70,0,4,15,9,21
+406,PSX,ORM,Orient Rental Modaraba.,OREN,,,,,,,,0,9,17,70,0,4,15,9,21
+407,PSX,LPGL,Leiner Pak Gelantine Limited.,LEGL,,,,,,,,0,9,17,70,0,4,15,9,21
+408,PSX,FTSM,First Tri-Star Mod.,TRIS,,,,,,,,0,9,17,70,0,4,15,9,21
+409,PSX,MFL,Matco Foods Limited.,MATC,,,,,,,,0,9,17,70,0,4,15,9,21
+410,PSX,FTMM,First Treet Manufacturing Modaraba.,FTMM,,,,,,,,0,9,17,70,0,4,15,9,21
+411,PSX,MSCL,Metropolitan Steel Corporation,METS,,,,,,,,0,9,17,70,0,4,15,9,21
+412,PSX,TRIP,TRG Pakistan Ltd.,TRIP,,,,,,,,0,9,17,70,0,4,15,9,21
+413,PSX,JHPH,Jubilee General Insurance Co.Ltd.,JHPH,,,,,,,,0,9,17,70,0,4,15,9,21
+414,PSX,PASL,Pervez Ahmed Consultancy Services Ltd.,PASL,,,,,,,,0,9,17,70,0,4,15,9,21
+415,PSX,RAVT,Quice Food Industries Ltd.,RAVT,,,,,,,,0,9,17,70,0,4,15,9,21
+416,PSX,HIFA,HBL Investment Fund,HBLI,,,,,,,,0,9,17,70,0,4,15,9,21
+417,PSX,SMTX,Samin Textiles Ltd.,SMTX,,,,,,,,0,9,17,70,0,4,15,9,21
+418,PSX,SALF,Saif Textile Mills Ltd.,SALF,,,,,,,,0,9,17,70,0,4,15,9,21
+419,PSX,GGL,Ghani Global Holdings Limited.,GHAN,30,,Growth,,TRUE,,,0,9,17,70,0,4,15,9,21
+420,PSX,HABA,Gharibwal Cement Ltd.,HABA,,,,,,,,0,9,17,70,0,4,15,9,21
+421,PSX,BAWA,Bata Pakistan Ltd.,BAWA,,,,,,,,0,9,17,70,0,4,15,9,21
+422,PSX,AKDC,Askari Bank Limited.,AKDC,,,,,,,,0,9,17,70,0,4,15,9,21
+423,PSX,PKIS,Packages Ltd.,PKIS,,,,,,,,0,9,17,70,0,4,15,9,21
+424,PSX,ISLT,International Steels Limited.,ISLT,,,,,,,,0,9,17,70,0,4,15,9,21
+425,PSX,SGPL,S. G. Power Ltd.,SGPL,,,,,,,,0,9,17,70,0,4,15,9,21
+426,PSX,CPAL,Colgate Palmolive (Pak) Ltd.,CPAL,,,,,,,,0,9,17,70,0,4,15,9,21
+427,PSX,DARS,Dadex Eternit Ltd.,DARS,,,,,,,,0,9,17,70,0,4,15,9,21
+428,PSX,IMSL,Imperial Limited,IMSL,,,,,,,,0,9,17,70,0,4,15,9,21
+429,PSX,JUBL,Jauharabad Sugar Mills Ltd.,JUBL,,,,,,,,0,9,17,70,0,4,15,9,21
+430,PSX,MIAN,Matco Foods Limited.,MIAN,,,,,,,,0,9,17,70,0,4,15,9,21

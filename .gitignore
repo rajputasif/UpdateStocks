@@ -1,4 +1,4 @@
 0_uploaddaily2mongo*
 .ipynb_checkpoints
-.streamlit
+.streamlit/secrets.toml
 __pycache__

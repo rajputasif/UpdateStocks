@@ -34,9 +34,9 @@ st.success("Deleting today's entry (if any)")
 dailyCol.delete_many({'Date': todayDate})
 print('Website called')
 
-# st.info('Data scrapper getting data! (please wait)')
-# ds = DataScrapper(infoFile='data/0_kseall.csv',mutualFunds=True)
-# st.success('Data scrapper ready!')
+st.info('Data scrapper getting data! (please wait)')
+ds = DataScrapper(infoFile='data/0_kseall.csv',mutualFunds=True)
+st.success('Data scrapper ready!')
 # #-------------------Variables------------------------------
 
 # allPosts = []
